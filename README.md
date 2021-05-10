@@ -1,4 +1,4 @@
-# petals-around-the-rose
+# petals-around-the-rose | CODE IS BEING REWRITTEN
 A C++ Terminal game for "Petals Around the Rose".
 
 Petals Around the Rose is a simple game. Well really, it's more like a challenge/brain teaser.
